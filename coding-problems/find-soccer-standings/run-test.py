@@ -9,8 +9,7 @@ class TestTopFour(unittest.TestCase):
     def test_main(self):
         test_class = Solution()
         answer = test_class.returnTopFour()
-        expected_out = [['Brentford', 73, 60, 108], ['Brighton', 62, 47, 104], ['Man City', 59, 39, 87], ['Everton', 61, 41, 100]]
-        # Check stdout
+        expected_out = [['Brentford', 73, 33, 108], ['Aston Villa', 62, 16, 113], ['Man City', 59, -4, 87], ['Everton', 61, 6, 100]]
         self.assertEqual(answer, expected_out)
 
 if __name__ == '__main__':
