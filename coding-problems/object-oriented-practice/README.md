@@ -4,3 +4,7 @@ Design classes and functions to perform the following tasks:
   2. A seat has a seat number, and an optional extra price.
   3. Passenger can query all available seats. All available seats should be displayed with their full price.
   4. Passenger can book a seat. A seat that is assigned, cannot be shown as available in future queries.
+
+  ##Notes
+  1. There no one write answer for this.
+  2. These questions usually test how well do you know the concepts of object oriented programming.
