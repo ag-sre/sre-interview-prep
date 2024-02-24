@@ -7,7 +7,7 @@ These problems are very similar to what I have seen so for in interviews.
 Overall prepare the following concepts throughly:
 1. Read from a file
 2. Batch read from a large file
-3. Time complexity of of operations on hashmap and heap.
+3. Time complexity of operations on hashmap and heap.
 4. Reading variable values from command line argument
 5. Designing a flask server
 
